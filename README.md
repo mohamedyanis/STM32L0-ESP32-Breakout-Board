@@ -2,7 +2,7 @@
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](LICENSE)
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
 
-This is a small Printed Circuit Board (PCB) breakout that is based on the STM32 microcontroller as well as the ESP32 dev module.
+This is a small breakout Printed Circuit Board (PCB) that is based on the STM32 microcontroller as well as the ESP32 dev module.
 The PCB is designed using the free and open source software <a href="https://github.com/KiCad">KiCad</a>. 
 
 ## More Details
