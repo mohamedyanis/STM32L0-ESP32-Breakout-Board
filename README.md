@@ -6,7 +6,7 @@ This is a small breakout Printed Circuit Board (PCB) that is based on the STM32 
 The PCB is designed using the free and open source software <a href="https://github.com/KiCad">KiCad</a>. 
 
 ## More Details
-The PCB is based on the STM32L0 series, specificaly the STM32L031G6U6 microcontroller which is a low power based MCU. The MCU is operated with a High Speed Internal (HSI) clock signal of a 16 MHz crystal oscillator.<br><br>
+The PCB is based on the STM32L0 series, specificaly the STM32L031G6U6 microcontroller which is a low power based MCU. The MCU is operated with a High Speed Internal (HSI) clock signal of a 16 MHz crystal oscillator (No external quartz is needed).<br><br>
 It's operating with an input voltage from 12V to 5V. The input voltage will be filtered and reduced to 3V3 in order to power the STM32 MCU as well as the ESP32 module.<br><br>
 The purpose of this PCB is to control the temperature with a PID controller. It has two connectors for that, one for reading temperature value with a thermostat, a thermocouple, or a temperature IC (LM36/LM35) that gives an analog signal, and the other connector is used to control the temperature using a Solid State Relay (SSR) controlled by a PWM signal.<br><br>
 The data read from the STM32 MCU is transmitted to the ESP32 dev module via 'USART' protocol in order to send the data to the cloud and the temperature could be controlled wirelessly anywhere with a smart phone or a web application.<br><br>
