@@ -1,0 +1,13 @@
+Plotted to 'F:\Documents\Kicad\KiCad 6\STM32L0_ESP32_Breakout_Board\Manufacturing\Gerber\STM32L0_ESP32_Breakout_Board-F_Cu.gbr'.
+Plotted to 'F:\Documents\Kicad\KiCad 6\STM32L0_ESP32_Breakout_Board\Manufacturing\Gerber\STM32L0_ESP32_Breakout_Board-In1_Cu.gbr'.
+Plotted to 'F:\Documents\Kicad\KiCad 6\STM32L0_ESP32_Breakout_Board\Manufacturing\Gerber\STM32L0_ESP32_Breakout_Board-In2_Cu.gbr'.
+Plotted to 'F:\Documents\Kicad\KiCad 6\STM32L0_ESP32_Breakout_Board\Manufacturing\Gerber\STM32L0_ESP32_Breakout_Board-B_Cu.gbr'.
+Plotted to 'F:\Documents\Kicad\KiCad 6\STM32L0_ESP32_Breakout_Board\Manufacturing\Gerber\STM32L0_ESP32_Breakout_Board-F_Paste.gbr'.
+Plotted to 'F:\Documents\Kicad\KiCad 6\STM32L0_ESP32_Breakout_Board\Manufacturing\Gerber\STM32L0_ESP32_Breakout_Board-B_Paste.gbr'.
+Plotted to 'F:\Documents\Kicad\KiCad 6\STM32L0_ESP32_Breakout_Board\Manufacturing\Gerber\STM32L0_ESP32_Breakout_Board-F_Silkscreen.gbr'.
+Plotted to 'F:\Documents\Kicad\KiCad 6\STM32L0_ESP32_Breakout_Board\Manufacturing\Gerber\STM32L0_ESP32_Breakout_Board-B_Silkscreen.gbr'.
+Plotted to 'F:\Documents\Kicad\KiCad 6\STM32L0_ESP32_Breakout_Board\Manufacturing\Gerber\STM32L0_ESP32_Breakout_Board-F_Mask.gbr'.
+Plotted to 'F:\Documents\Kicad\KiCad 6\STM32L0_ESP32_Breakout_Board\Manufacturing\Gerber\STM32L0_ESP32_Breakout_Board-B_Mask.gbr'.
+Plotted to 'F:\Documents\Kicad\KiCad 6\STM32L0_ESP32_Breakout_Board\Manufacturing\Gerber\STM32L0_ESP32_Breakout_Board-Edge_Cuts.gbr'.
+Created Gerber job file 'F:\Documents\Kicad\KiCad 6\STM32L0_ESP32_Breakout_Board\Manufacturing\Gerber\STM32L0_ESP32_Breakout_Board-job.gbrjob'.
+Info: Done.

@@ -1,0 +1,29 @@
+Drill report for STM32L0_ESP32_Breakout_Board.kicad_pcb
+Created on 2023-02-10 5:06:22 PM
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  In1.Cu                    in1
+    L3 :  In2.Cu                    in2
+    L4 :  B.Cu                      back
+
+
+Drill file 'STM32L0_ESP32_Breakout_Board.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.200mm  0.0079"  (70 holes)
+    T2  0.300mm  0.0118"  (33 holes)
+    T3  0.600mm  0.0236"  (32 holes)
+    T4  0.950mm  0.0374"  (12 holes)
+    T5  1.000mm  0.0394"  (2 holes)
+    T6  4.300mm  0.1693"  (4 holes)
+
+    Total plated holes count 153
+
+
+Not plated through holes are merged with plated holes
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
