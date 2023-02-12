@@ -64,6 +64,9 @@ git clone https://github.com/mohamedyanis/STM32L0-ESP32-Breakout-Board.git
 6. Upload the [STM32L0-ESP32-Breakout-Board-Gerber.rar](Manufacturing/Gerber/STM32L0-ESP32-Breakout-Board-Gerber.rar) in order to order the board.
 7. In case you want to receive it assembled, upload the [STM32L0_ESP32_Breakout_Board_BOM.csv](Manufacturing/Assembly/STM32L0_ESP32_Breakout_Board_BOM.csv) and [STM32L0_ESP32_Breakout_Board_Components_Positions.csv](Manufacturing/Assembly/STM32L0_ESP32_Breakout_Board_Components_Positions.csv) files.
 
+## License
+The content of this project is licenced under the [BSD 3-Clause "New" or "Revised" License](LICENSE).
+
 ## Contributing 💡
 If you want to contribute to this project and make it better with new ideas, your pull request is very welcomed.<br>
 If you find any issue just put it in the repository issue section, thanks!<br><br>
