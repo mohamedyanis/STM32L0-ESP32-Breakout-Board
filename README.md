@@ -58,11 +58,11 @@ Open the [Datasheets](Datasheets) folder and you will find all the datasheets, a
 ```bach
 git clone https://github.com/mohamedyanis/STM32L0-ESP32-Breakout-Board.git
 ```
-3. Extract the folder and open it.
-4. Navigate for the [Manufacturing](Manufacturing) folder.
-5. Go to your best PCB manufacturer website and click on quote.
-6. Upload the [STM32L0-ESP32-Breakout-Board-Gerber.rar](Manufacturing/Gerber/STM32L0-ESP32-Breakout-Board-Gerber.rar) in order to order the board.
-7. In case you want to receive it assembled, upload the [STM32L0_ESP32_Breakout_Board_BOM.csv](Manufacturing/Assembly/STM32L0_ESP32_Breakout_Board_BOM.csv) and [STM32L0_ESP32_Breakout_Board_Components_Positions.csv](Manufacturing/Assembly/STM32L0_ESP32_Breakout_Board_Components_Positions.csv) files.
+2. Extract the folder and open it.
+3. Navigate for the [Manufacturing](Manufacturing) folder.
+4. Go to your best PCB manufacturer website and click on quote.
+5. Upload the [STM32L0-ESP32-Breakout-Board-Gerber.rar](Manufacturing/Gerber/STM32L0-ESP32-Breakout-Board-Gerber.rar) in order to order the board.
+6. In case you want to receive it assembled, upload the [STM32L0_ESP32_Breakout_Board_BOM.csv](Manufacturing/Assembly/STM32L0_ESP32_Breakout_Board_BOM.csv) and [STM32L0_ESP32_Breakout_Board_Components_Positions.csv](Manufacturing/Assembly/STM32L0_ESP32_Breakout_Board_Components_Positions.csv) files.
 
 ## License
 The content of this project is licenced under the [BSD 3-Clause "New" or "Revised" License](LICENSE).
