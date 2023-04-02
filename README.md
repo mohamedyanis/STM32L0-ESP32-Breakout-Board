@@ -42,7 +42,7 @@ Side View 3         |  Side View 4
 
 ## Requirements
 
-If you want to review the PCB or yoou wanna edit the schematics/layout, yoou only need to install KiCad software to your machine.
+If you want to review the PCB or yoou wanna edit the schematics/layout, you only need to install KiCad software to your machine.
 
 * Go to the <a href="https://www.kicad.org/download/">Official KiCad Download Page</a>.
 * Select your operating system.
